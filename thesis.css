@@ -241,6 +241,10 @@ width:64%;
 -webkit-hyphens:auto;
 -ms-hyphens:auto;
 hyphens:auto;*/
+  @media (maz-width:600px) {
+    width: auto;
+    margin: 0 1rem;
+  }
 }
 #authors, .authors, #document-status, #keywords, #categories-and-subject-descriptors, #general-terms, #references, pre, code, samp, h1, table *, figcaption {
 -moz-hyphens:none;
